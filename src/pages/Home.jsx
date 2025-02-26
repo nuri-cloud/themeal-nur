@@ -93,6 +93,9 @@ function Home() {
                     <Alfa />
                 </section>
             </main>
+            <div>
+                <h1>NURZADA LOVE</h1>
+            </div>
         </div>
     );
 }
