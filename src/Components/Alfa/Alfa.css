@@ -1,0 +1,17 @@
+.div {
+    display: flex;
+    justify-content: center; 
+    flex-wrap: wrap; 
+    gap: 20px; 
+    padding: 20px;
+}
+
+.div img{
+    cursor: pointer;
+}
+
+.div span{
+    text-decoration: none;
+    color: #d57d1f;
+
+}
