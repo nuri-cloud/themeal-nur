@@ -7,9 +7,7 @@ import { myRouter } from "./router";
 function App() {
   return (
     <div>
-      ggggg 
-
-      {/* <RouterProvider router={myRouter} /> */}
+      <RouterProvider router={myRouter} />
     </div>
     
   );
